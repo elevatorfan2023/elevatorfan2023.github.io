@@ -1,0 +1,65 @@
+body{
+    font: 1em sans-serif;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+H1{
+    justify-content: center;
+    list-style-image: -webkit-gradient;
+    font-size: medium;
+}
+
+.codingapp-container{
+    background: blueviolet;
+    color: #ffffff;
+    stroke-width: auto;
+    border-image-outset: inherit;
+    height: 20px;
+    prefix: jobs;
+}
+
+.setup{
+    left: auto;
+    right: auto;
+    scroll-margin: slow;
+     margin-top: auto;
+     background-origin: padding-box;
+     margin-bottom: auto;
+     white-space: #3003;
+}
+
+.jobs{
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    nav-right: auto;
+    nav-left: auto;
+    align-self: auto;
+}
+
+.developer{
+    justify-content: center;
+    enable-background: pink;
+    font-variant: custom;
+}
+
+.captain{
+    font-size: larger;
+    background-color: rgba(31, 94, 189, 0.938);
+    padding-block: 30px;
+    padding-left: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    justify-content: center;
+}
+
+.crew-members{
+    list-style: inside;
+    justify-content: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
